@@ -51,7 +51,7 @@ export default function Navbar() {
             </nav>
             <nav>
                 {isMenuOpen && (
-                    <div className="fixed top-0 left-0 w-full h-full bg-white z-50 flex flex-col items-center justify-center space-y-8">
+                    <div className="fixed top-0 left-0 w-full h-full bg-white z-40 flex flex-col items-center justify-center space-y-8">
                         <Link href="/" onClick={() => setIsMenuOpen(false)} className="text-2xl">Home</Link>
                         <Link href="/about" onClick={() => setIsMenuOpen(false)} className="text-2xl">About</Link>
                         <Link href="/collaboration" onClick={() => setIsMenuOpen(false)} className="text-2xl">Collaboration</Link>
