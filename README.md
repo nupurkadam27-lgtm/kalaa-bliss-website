@@ -1,36 +1,148 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 Kalaa Bliss – Portfolio Website
 
-## Getting Started
+Official portfolio website for **Kalaa Bliss**, the creative identity of **Khushbu Gupta**, a professional **Animator & Illustrator**.  
+This website showcases her artwork, brand collaborations, animations, and provides a way for brands and audiences to connect.
 
-First, run the development server:
+🔗 Live Website: https://kalaa-bliss.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# ✨ About The Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Kalaa Bliss is a creative portfolio platform designed to present the artistic journey of **Khushbu Gupta**, highlighting her work in illustration, animation, and brand storytelling.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The website acts as a digital space where:
 
-## Learn More
+- Art meets storytelling
+- Brands discover collaboration opportunities
+- Audiences experience creative animation content
+- Followers can connect with the artist
 
-To learn more about Next.js, take a look at the following resources:
+Her work focuses on spreading **positivity, joy, and emotion through visual storytelling**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# 👩‍🎨 About the Artist
 
-## Deploy on Vercel
+**Khushbu Gupta – Kalaa Bliss**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Animator and Illustrator crafting visual stories that connect brands with audiences.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+She believes:
+
+> Every illustration should tell a story, and every animation should evoke emotion.
+
+With experience in both **traditional illustration and digital animation**, she creates engaging visual narratives designed for modern social media and brand communication.
+
+---
+
+# 📊 Portfolio Highlights
+
+- **130k+** Followers on Instagram  
+- **400k+** Posts & Reels Delivered  
+- **6+** Brand Collaborations  
+
+---
+
+# 🤝 Collaboration Opportunities
+
+Brands and agencies can collaborate with Kalaa Bliss through several creative formats.
+
+### 🎬 Animated Reels
+Custom animated reels designed for social media.
+
+**Includes**
+- 15–60 second animations  
+- Instagram / TikTok optimized  
+- Multiple export formats  
+- 2–3 revision rounds  
+
+---
+
+### 📖 Illustrated Stories
+Visual storytelling sequences for audience engagement.
+
+**Includes**
+- 5–10 story frames  
+- Interactive elements  
+- Swipe-up ready formats  
+- Reusable templates  
+
+---
+
+### 🎨 Brand Illustrations
+Custom illustrations tailored to brand identity.
+
+**Includes**
+- Bespoke artwork  
+- Style guide support  
+- High-resolution files  
+- Usage rights  
+
+---
+
+### 🌀 Animated Posts
+Short animated content for brand promotions.
+
+**Includes**
+- Custom artwork  
+- Social media optimized exports  
+- Animation-ready formats  
+- Revision rounds  
+
+---
+
+# 🚀 Why Collaborate with Kalaa Bliss
+
+### Authentic Engagement
+Original artwork that resonates with real audiences.
+
+### Storytelling Impact
+Visual narratives that create emotional connections.
+
+### Strategic Alignment
+Creative work designed to support brand objectives.
+
+### Audience Connection
+Content optimized for social media engagement.
+
+---
+
+# 📬 Connect With Kalaa Bliss
+
+📧 Email  
+kalaa.bliss@gmail.com  
+
+📷 Instagram  
+https://instagram.com/kalaa_bliss  
+
+🌐 Website  
+https://kalaa-bliss.vercel.app/
+
+---
+
+# 📂 Website Sections
+
+- **Home** – Introduction and portfolio highlights  
+- **About** – Artist background and mission  
+- **Collaborate** – Brand partnership opportunities  
+- **Gallery** – Artwork and animation showcase  
+- **Connect** – Contact form for collaborations  
+
+---
+
+# 🎯 Mission
+
+The mission of Kalaa Bliss is to **spread happiness and positivity through art and animation**, creating visuals that inspire creativity and bring people together.
+
+---
+
+# 👨‍💻 Crafted By
+
+**Vaibhav**
+
+---
+
+# 📜 License
+
+© 2026 Kalaa Bliss. All Rights Reserved.
