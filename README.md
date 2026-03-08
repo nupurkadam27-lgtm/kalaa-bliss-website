@@ -1,4 +1,6 @@
-# 🎨 Kalaa Bliss – Portfolio Website
+# ![Kalaa Bliss Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj-m9vGCcgB7SqPap4wyabRCrDrn_6nXhUg&s) Kalaa Bliss – Portfolio Website
+
+
 
 Official portfolio website for **Kalaa Bliss**, the creative identity of **Khushbu Gupta**, a professional **Animator & Illustrator**.  
 This website showcases her artwork, brand collaborations, animations, and provides a way for brands and audiences to connect.
